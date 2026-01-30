@@ -1,4 +1,4 @@
-## Jieun_Research
+## Welcome to Jieun_Research !
 ### [Folder name] Full title (coauthors if any)
 --------------------------------------------------------------
 [Connected-trade-flows] Connected Trade Flows via Trade Costs: A Spatial Autoregressive Framework (with Hanbat Jeong)
