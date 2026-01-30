@@ -1,4 +1,4 @@
 # Jieun_Working_Papers
-[File name] Full title
------------------------
-[HJeong&JLee_SODF_circ.pdf] Connected Trade Flows via Trade Costs: A Spatial Autoregressive Framework
+[Folder name] Full title (coauthors if any)
+--------------------------------------------------------------
+[Connected-trade-flows] Connected Trade Flows via Trade Costs: A Spatial Autoregressive Framework (with Hanbat Jeong)
