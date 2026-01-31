@@ -1,4 +1,5 @@
 Published in *Econometric Reviews*, https://www.tandfonline.com/doi/full/10.1080/07474938.2024.2427600
+
 Replication package available in https://github.com/jieunsophia/EndoWTestinSDPD
 
 ## Testing the Endogeneity of a Spatial Weight Matrix in the Weak-Tied Spatial Dynamic Panel Data Model
