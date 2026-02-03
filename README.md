@@ -1,4 +1,4 @@
-### Welcome to Jieun_Econometrics-and-Machine-Learning !
+### Welcome to Jieun's research in Econometrics and Machine-Learning!
 #### [Folder name] Full title (sole-authored or coauthors if any), *Publisher*, Link
 --------------------------------------------------------------
 (Chronological order)
